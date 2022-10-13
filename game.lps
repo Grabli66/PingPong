@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units>
+      <Unit>
+        <Filename Value="game.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="180"/>
+        <CursorPos X="36" Y="207"/>
+        <UsageCount Value="45"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../fpcupdeluxe/config_lazarus/onlinepackagemanager/packages/Ray4Laz/source/raylib.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="111"/>
+        <CursorPos X="6" Y="127"/>
+        <UsageCount Value="16"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../fpcupdeluxe/fpcsrc/rtl/inc/systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="928"/>
+        <CursorPos X="11" Y="946"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../fpcupdeluxe/config_lazarus/onlinepackagemanager/packages/Ray4Laz/source/raymath.pas"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="43"/>
+        <CursorPos X="11" Y="59"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="267" Column="59" TopLine="240"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="343" Column="34" TopLine="317"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="20" Column="15" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="25" Column="21" TopLine="4"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="66" Column="10" TopLine="39"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="154" Column="43" TopLine="148"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="164" Column="78" TopLine="147"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="169" Column="78" TopLine="147"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="185" Column="25" TopLine="158"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="192" Column="13" TopLine="174"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="212" Column="15" TopLine="186"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="214" Column="62" TopLine="188"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="227" Column="43" TopLine="201"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="262" Column="51" TopLine="245"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="343" Column="34" TopLine="317"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="25" Column="21" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="153" Column="33" TopLine="126"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="154" Column="33" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="343" Column="34" TopLine="317"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="25" Column="21" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="153" Column="33" TopLine="126"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="154" Column="33" TopLine="127"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="283" Column="10" TopLine="262"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="284" Column="34" TopLine="268"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="286" TopLine="261"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="264" Column="64" TopLine="252"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="44" Column="10" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="251" Column="52" TopLine="234"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="286" Column="38" TopLine="264"/>
+      </Position>
+      <Position>
+        <Filename Value="game.lpr"/>
+        <Caret Line="65" Column="24" TopLine="40"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
